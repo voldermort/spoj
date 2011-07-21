@@ -147,9 +147,9 @@ void lcs (char* b, int n2) {
 }
 
 int main( int argc, char* argv[] ) {
-#ifndef ONLINE_JUDGE
+	#ifndef ONLINE_JUDGE
 	freopen("input.txt","r",stdin);
-#endif	
+	#endif	
 
 	int n=0;
 	vi len;

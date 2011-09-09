@@ -15,7 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="TestGraph.cpp">
+=======
+    <ClCompile Include="MLE.cpp">
+>>>>>>> 88e7f56a59e3b05a936af95917d6802f6e055f29
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

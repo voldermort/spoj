@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LCS2.cpp">
+    <ClCompile Include="TestGraph.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
